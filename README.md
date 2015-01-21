@@ -1,4 +1,4 @@
-*** M7M CPU miner by Nonce-Pool *** ./autogen.sh && ./configure CFLAGS="-O3" && make
+*** M7M CPU miner by Wolf0 ***
 
 License: GPLv2.  See COPYING for details.
 
